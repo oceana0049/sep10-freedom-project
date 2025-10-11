@@ -1,7 +1,7 @@
 # Entry 1: Why I chose health and fitness
-##### X/X/XX
+10/11/25
 
-Text
+Why health and fitness?
 
 [Next](entry02.md)
 
