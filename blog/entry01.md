@@ -1,4 +1,4 @@
-# Entry 1
+# Entry 1: Why I chose health and fitness
 ##### X/X/XX
 
 Text
