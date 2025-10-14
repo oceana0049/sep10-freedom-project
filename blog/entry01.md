@@ -8,6 +8,15 @@ I chose health and fitness because it's a topic i've recently become passionste 
 ### Engineering Design Process
 
 I am on step 1 of the engineering design process, defining. I think the average american eats a lot of processed food, and lives a sedentary lifestyle. I am grateful for technology to be a great way for information to get to people, but it is also a place for sketchy advertisements and trickery. I am excited to use technology to learn, and share information about health and fitness.
+
+### Skills
+
+One skill i have gained is ##researching skills.## finding sources for information from different websites has been quite useful to me, especially for this project and projects before. Knowing how to research on google makes it easier to have information when you need it, and save time.
+
+Another skill that I have learned is ##notetaking skills.## Knowing how to take notes on things like Markdown and HTML, without being advised to directly has helped me remember more information about coding, even when things are quite complicated. I also dont have to search everywhere for coding info when they are in my notes. For example, I took a lot of notes for HTML, which helped me on the "create something" homework.
+
+### Summary
+I cant wait to learn more about health and fitness, as well as how technology plays a role!
 [Next](entry02.md)
 
 [Home](../README.md)
