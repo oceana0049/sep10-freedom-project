@@ -11,9 +11,9 @@ I am on step 1 of the engineering design process, defining. I think the average 
 
 ### Skills
 
-One skill i have gained is ##researching skills.## finding sources for information from different websites has been quite useful to me, especially for this project and projects before. Knowing how to research on google makes it easier to have information when you need it, and save time.
+One skill i have gained is **researching skills.** finding sources for information from different websites has been quite useful to me, especially for this project and projects before. Knowing how to research on google makes it easier to have information when you need it, and save time.
 
-Another skill that I have learned is ##notetaking skills.## Knowing how to take notes on things like Markdown and HTML, without being advised to directly has helped me remember more information about coding, even when things are quite complicated. I also dont have to search everywhere for coding info when they are in my notes. For example, I took a lot of notes for HTML, which helped me on the "create something" homework.
+Another skill that I have learned is **notetaking skills.** Knowing how to take notes on things like Markdown and HTML, without being advised to directly has helped me remember more information about coding, even when things are quite complicated. I also dont have to search everywhere for coding info when they are in my notes. For example, I took a lot of notes for HTML, which helped me on the "create something" homework.
 
 ### Summary
 I cant wait to learn more about health and fitness, as well as how technology plays a role!
