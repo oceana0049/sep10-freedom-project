@@ -16,6 +16,11 @@ Topic: **X**
   * It can track your runs or walks
   * It can see how fast yo go, how long you go, as well as setting start points and endpoints.
   * You can see other people's runs as well, if they post it online.
+*Third app was [fitbod](https://fitbod.me/)
+  * This app designs a workout based on your goals
+  * You can track your workouts on this app
+  * You can select the training style for each workout
+  * It can show how your strength is improving
 
 ## Part B: possible future technology
 * Idea
