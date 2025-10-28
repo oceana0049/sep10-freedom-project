@@ -21,7 +21,12 @@ Topic: **X**
   * You can track your workouts on this app
   * You can select the training style for each workout
   * It can show how your strength is improving
-
+* Second search was "health and fitness hardware/gadgets
+* First hardware was the [tonal](https://tonal.com).
+  * The tonal is a high tech home workout equipment
+  * It uses AI to give you your next workout.
+  * You can attach different peices of equipment to it.
+* Second hardware was [peloton](https://www.onepeloton.com)
 ## Part B: possible future technology
 * Idea
   * Detail
