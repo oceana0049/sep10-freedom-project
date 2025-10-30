@@ -27,6 +27,15 @@ Topic: **X**
   * It uses AI to give you your next workout.
   * You can attach different peices of equipment to it.
 * Second hardware was [peloton](https://www.onepeloton.com)
+  * Peloton makes indoor cardio equipment with special features.
+  * There are videos to guide you through workouts.
+  * the equipment is bikes, treadmills, rowers, etc
+  * they also use AI to track progress.
+* Third hardware was [fitbit](https://www.fitbit.com)
+ * The fitbit is a fitness tracking device.
+ * It can track resting measures like sleep or heart rate
+ * It can also give fitness advice, mostly for cardio
+ * Fitbit is being bought by google, most likely to reduce competition.
 ## Part B: possible future technology
 * Idea
   * Detail
