@@ -2,40 +2,20 @@
 Topic: **X**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Health and fitness has become something a lot of people prioritize, with lots of creative inventions along the way.
+* Some of these inventions use the latest tech like AI, while some are more advanced than others
 
 ## Part A: existing technology
-* First search "Health and fitness apps.
-* First app i looked at was [my fitness pal](https://www.myfitnesspal.com/)
-  * This website is a nutrition tracking website
-  * It can be used to track calories
-  * The pro version can also provide recipes
-* Second app was [map my run](https://www.mapmyrun.com)
-  * I have used this app before
-  * It can track your runs or walks
-  * It can see how fast yo go, how long you go, as well as setting start points and endpoints.
-  * You can see other people's runs as well, if they post it online.
-* Third app was [fitbod](https://fitbod.me/)
-  * This app designs a workout based on your goals
-  * You can track your workouts on this app
-  * You can select the training style for each workout
-  * It can show how your strength is improving
-* Second search was "health and fitness hardware/gadgets
-* First hardware was the [tonal](https://tonal.com).
-  * The tonal is a high tech home workout equipment
-  * It uses AI to give you your next workout.
-  * You can attach different peices of equipment to it.
-* Second hardware was [peloton](https://www.onepeloton.com)
-  * Peloton makes indoor cardio equipment with special features.
-  * There are videos to guide you through workouts.
-  * the equipment is bikes, treadmills, rowers, etc
-  * they also use AI to track progress.
-* Third hardware was [fitbit](https://www.fitbit.com)
- * The fitbit is a fitness tracking device.
- * It can track resting measures like sleep or heart rate
- * It can also give fitness advice, mostly for cardio
- * Fitbit is being bought by google, most likely to reduce competition.
-## Part B: possible future technology
-* Idea
-  * Detail
+* Least Complex: Tracking apps
+  * This category includes [my fitness pal](https://www.myfitnesspal.com/), [map my run](https://www.mapmyrun.com)
+  * These apps are good for tracking, but dont use very much new technology. They often rely on manual data input, or GPS.
+  
+* Moderately Complex: Smart apps/gadgets
+  * This category includes  [fitbod](https://fitbod.me/), [fitbit](https://www.fitbit.com)
+  * These technologies can use AI to give you ideas, as well as certain vitals technologies such as heart rate and sleep tracking.
+  * The technology here is pretty new, but nothing groundbreaking.
+
+* Most Complex: Home workout Tech
+  * This category includes [peloton](https://www.onepeloton.com), [tonal](https://tonal.com).
+  * These technologies are advananced and expensive. They allow you to workout from home, with AI workout tracking to progress you forward.
+  
