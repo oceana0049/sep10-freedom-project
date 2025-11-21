@@ -4,10 +4,13 @@ Topic: **X**
 ## Overview/Introduction/Context
 * Health and fitness has become something a lot of people prioritize, with lots of creative inventions along the way.
 * Some of these inventions use the latest tech like AI, while some are more advanced than others
+* Future inventions are coming, some ideas for future inventions are here.
 
-## Part A: existing technology
+## Existing technology in health & fitness
 * Least Complex: Tracking apps
   * This category includes [my fitness pal](https://www.myfitnesspal.com/), [map my run](https://www.mapmyrun.com)
+  * Mapmyrun allows you to track and pace your runs or walks.
+  * Myfitnesspal allows you to track your nutrition, but you must manually input data.
   * These apps are good for tracking, but dont use very much new technology. They often rely on manual data input, or GPS.
   
 * Moderately Complex: Smart apps/gadgets
@@ -17,5 +20,6 @@ Topic: **X**
 
 * Most Complex: Home workout Tech
   * This category includes [peloton](https://www.onepeloton.com), [tonal](https://tonal.com).
+  * Peloton is mostly for cardio, Tonal is for strength training.
   * These technologies are advananced and expensive. They allow you to workout from home, with AI workout tracking to progress you forward.
   
