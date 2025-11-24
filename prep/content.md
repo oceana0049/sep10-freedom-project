@@ -29,6 +29,9 @@ Topic: **X**
    * You do not need to be close to someone to race the,m. The app will give you a start time, and a finish line.
    * you can race people in long distance runs, or sprints.
    * We will hve events like the RemoteMarathon, in which hundreds or thousdands of people will race at once, all in different locations, the winner gets a cash prize.
+<img width="142" height="139" alt="image" src="https://github.com/user-attachments/assets/6321a829-bebf-4edf-97fe-fcb621c097b3" />
+
+
  
  * Most complex: Smartbell
    * This smart workout equipment consists of a pair of dumbbells with futuristic features.
