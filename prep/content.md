@@ -38,5 +38,4 @@ Topic: **X**
    * The Smartbell can change shape into other peices of workout equipment such as kettlbells, or can ever fuse to become a barbell!
    * The smartbell uses SmartWeight technology to change the direction and force of the resistance. Allowing you to do multiple kids of workouts with resistance in all different directions.
    * The smartbell uses SmartSafety technology, which makes it freeze in place whenever it moves too fast, or if the handle is let go of.
-<img width="142" height="139" alt="image" src="https://github.com/user-attachments/assets/e21d1d0b-afc3-4851-96f9-959f3a69e2c9" />
-
+<img width="149" height="139" alt="image" src="https://github.com/user-attachments/assets/4c35150a-ef3e-4e4f-bbab-68dd8736315c" />
