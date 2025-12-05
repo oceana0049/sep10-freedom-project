@@ -10,6 +10,12 @@ The least complex ones were [my fitness pal](https://www.myfitnesspal.com/), a n
 
 I am currently on step 3 of the engineering design process, brainstorming. I am creating new Ideas about inventions in the technology of health nd fitness.
 
-[Previous](entry02.md) | [Next](entry04.md)
+### Skills
 
-[Home](../README.md)
+A new skill I have picked up is **creativity**. This project of creating new inventions has sparked my imagination. Some of the inventions I have made may not be possible with today's technology, but technology is constantly evolving.
+
+Another skill I have gained more of is **perseverence**. This unit contained a lot of hard work. It was easy to slack off and forget about everything, but I am glad I got back on task.
+
+## Conclusion
+
+I made changes to my content.md to make it more organized, as well as creating new ideas for technology in health/fitness.
