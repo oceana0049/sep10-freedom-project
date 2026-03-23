@@ -7,8 +7,7 @@
 3/16/26:
 * Aframe is a tool to build 3d models and VR experiences
 * You can make shapes and edit their position, size, and color.
-* Here's an example: "</head>
-  <body>
+* Here's an example: "
     <a-scene>
       <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
       <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
