@@ -18,8 +18,10 @@
   
     this simple code adds some simple colored 3d shapes to a scene.
 
-### X/X/XX:
-* Text
+### 3/29/26:
+* Positioning is something you use to dictate where the object is. It is measured in 3 dimensional X, Y, and Z values.
+* Relative positioning is the position of an object based on the position of a different, preexisting "parent" object.
+* 
 
 
 <!-- 
