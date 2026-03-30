@@ -14,7 +14,6 @@
       a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder
       a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane
       a-sky color="#ECECEC"></a-sky>
-    /a-scene>
   
     this simple code adds some simple colored 3d shapes to a scene.
 
@@ -27,6 +26,7 @@
       <a-cylinder position="1 0.75 -3" radius="1" segments-radial="6" height="1.5" color="#FFC65D" ></a-cylinder>
       <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
       <a-sky color="#ECECEC"></a-sky>``
+      
 Example code for  positioning and relative positioning.
 <!-- 
 * Links you used today (websites, videos, etc)
