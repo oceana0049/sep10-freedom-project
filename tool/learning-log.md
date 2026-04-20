@@ -62,3 +62,9 @@ THU
     </a-scene>``
 FRI
 * Made a simple multi object structure.
+  Here's the simple structure based on what ive learned
+
+``  <a-box position="0 0 0" rotation="90 45 0" color="#964B00" width="1" scale="1 1 5">
+      <a-sphere position="0 0 -0.5" color="#006400" scale="2 2 0.5"></a-sphere>
+      <a-sky color="#ECECEC"></a-sky>``
+
