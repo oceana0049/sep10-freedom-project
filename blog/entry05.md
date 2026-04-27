@@ -1,7 +1,10 @@
-# Entry 5
-##### X/X/XX
+# Entry 5: Ocean A entry 5 Health and Fitness Blog
+4/26/26
 
-Text
+### Content and learning
+### EDP
+### Skills
+### ConClusion
 
 [Previous](entry04.md) | [Next](entry06.md)
 
