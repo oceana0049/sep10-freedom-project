@@ -5,11 +5,11 @@
 * [Desktop]()
 
 ## Colors
-* `#FFFFFF`
-* `#00171F`
-* `#003459`
-* `#007EA7`
-* `#00A8E8`
+* `#FFFFFF` white
+* `#00171F` black/navy
+* `#003459` Deep blue
+* `#007EA7` Blue
+* `#00A8E8` Light blue
 
 ## Fonts
 * [Text](URL)
@@ -33,7 +33,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
