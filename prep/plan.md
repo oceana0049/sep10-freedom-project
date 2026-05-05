@@ -38,7 +38,7 @@ dont be typin sum "add grid" or "add tool" i alr know that.
 | -------- | ------- | ------- |
 example:
 |Ocean|I like the color scheme|No grow its perfect|
-|  |  |  |
+| Ethan | I like that the dropdowns are aniamted instead of being instant, many pictures. | Not very ordered, especially with the list of images and examples |
 |  |  |  |
 |  |  |  |
 |  |  |  |
