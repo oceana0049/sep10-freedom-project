@@ -39,7 +39,7 @@ dont be typin sum "add grid" or "add tool" i alr know that.
 example:
 |Ocean|I like the color scheme|No grow its perfect|
 | Ethan | I like that the dropdowns are aniamted instead of being instant, many pictures. | Not very ordered, especially with the list of images and examples |
-|  |  |  |
+| amy | I like the use of the accordian, the images, and the colors | A grow would be to add a navbar and to be more organized. Other than that the information is good! |
 |  |  |  |
 |  |  |  |
 
