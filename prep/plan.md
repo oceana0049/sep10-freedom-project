@@ -31,16 +31,15 @@
 
 
 
-<!-- DO NOT USE THIS YET
 
 #### Peer Feedback
-
+dont be typin sum "add grid" or "add tool" i alr know that.
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+example:
+|Ocean|I like the color scheme|No grow its perfect|
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
--->
