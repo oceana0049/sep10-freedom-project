@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* First slide shows old health and fitness technology, then I will show another slide about newer technology to show how much it has evolved. I will then explain my cause for creating better technology.
 
 ## Product
-* 
+* I will show parts of my website and my A-Frame creation on the slides, explaining along the way.
 
 ## Process
-* 
+* Code images, How I used A-Frame.
 
 ## Conclusion
-* 
+* Link to website, helpful advice such as takeaways.
 
 <!-- EXAMPLE
 
