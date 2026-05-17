@@ -10,3 +10,12 @@ h4 {
 ul {
     color: #007EA7
 }
+a-scene {
+    width: 500px;
+    height: 500px;
+}
+img {
+  border: 3px solid black;
+}
+
+
