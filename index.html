@@ -79,12 +79,19 @@
     </div>
   </div>
 </div>
-        <p>My next idea is a peice of exercise equipment called the Smartbell. A very futuristic dumbbell that can morph into different types of weights, track your strength, and use futuristic magnetic technology to fly and apply pressure from every direction. Below is a 3D model I made using A-Frame to showcase what the smartbell could look like.</p>
+        <p>My next idea is a peice of exercise equipment called the Smartbell. A very futuristic dumbbell that can morph into different types of weights, track your strength, and use futuristic magnetic technology to fly and apply pressure from every direction. Below is a 3D model I made using A-Frame to showcase what the smartbell could look like. Hover over screen and click down arrow to see it.</p>
         <html>
   <head>
     <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
   </head>
   <body>
+    <style>
+  a-scene {
+    height: 300px;
+    width: 600px;
+  }
+</style>
+
     <a-scene embedded>
       <a-cylinder position="1 0.75 3" radius="0.5" height="3" color="#00171F" rotation="0 0 90"></a-cylinder>
       <a-cylinder position="-0.5 0.75 3" radius="1" segments-radial="6" height="1" color="#003459" rotation="0 0 90"></a-cylinder>
