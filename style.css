@@ -9,7 +9,6 @@ h4 {
 }
 ul {
     color: #007EA7
-
 }
 img {
   border: 3px solid black;
@@ -17,4 +16,18 @@ img {
 a-scene {
     border: 3px solid black;
 }
-
+img {
+    max-width: 100%;
+    height: auto;
+}
+page-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+@media (max-width: 768px) {
+    .page-grid {
+        grid-template-columns: 1fr;
+    }
+}
